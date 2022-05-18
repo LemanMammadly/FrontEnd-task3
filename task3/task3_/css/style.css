@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.navbar{
+    background-color: #212529;
+    padding: 19px 0;
+}
+.navbar .first{
+    font-size: 20px;
+    padding-left: 60px;
+    color: #fff;
+}
+.navbar a{
+    color: rgba(255, 255, 255, 0.55);
+    text-decoration: none;
+    padding-right: 16rem;
+}
+.head{
+    background-color: #2A78FD;
+    text-align: center;
+    padding: 96px 0;
+}
+.head h1{
+    color: #fff;
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.head p{
+    color: #fff;
+    font-size: 20px;
+    margin-bottom: 25px;
+}
+.head a{
+    background-color: #f8f9fa;
+    color: #000;
+    text-decoration: none;
+    padding: 8px 16px;
+    font-size: 20px;
+    border-radius: 4px;
+}
+.about{
+    padding: 144px 0;
+}
+.about h2{
+    font-size: 32px;
+    color: #212529;
+    margin-bottom: 20px;
+}
+.about p{
+    font-size:20px;
+    margin-bottom: 30px;
+}
+.about ul li{
+    font-size: 17px;
+    color:#212529;
+    margin-left: 2rem;
+    margin-top: 4px;
+}
+.container{
+    padding-left: 19rem;
+    padding-right: 16.5rem;
+    width: 60%;
+    background-color: #fff;
+}
+.offer{
+    padding: 144px 0;
+}
+
+.offer h2{
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+.offer p{
+    font-size: 20px;
+}
+
+.container.cntr{
+    background-color: #f8f9fa;
+}
+.contact{
+    padding: 144px 0;
+}
+.contact h2{
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+.contact p{
+    font-size: 20px;
+}
+
+.container.last{
+    background-color: #212529;
+}
+.footbar{
+    padding: 48px 0;
+}
+.footbar p{
+    color: #fff;
+    text-align: center;
+    font-size: 16px;
+}
